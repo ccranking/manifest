@@ -7,3 +7,6 @@ repos:
 
   - dest: webpage
     url: git@github.com:ccranking/webpage.git
+
+  - dest: manifest
+    url: git@github.com:ccranking/manifest.git

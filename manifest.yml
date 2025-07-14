@@ -1,0 +1,9 @@
+repos:
+  - dest: ccrank
+    url: git@github.com:ccranking/ccrank.git
+
+  - dest: ccusage-ext
+    url: git@github.com:ccranking/ccusage-vscode.git
+
+  - dest: webpage
+    url: git@github.com:ccranking/webpage.git

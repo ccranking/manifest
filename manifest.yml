@@ -1,11 +1,16 @@
 repos:
+  - dest: ccrank
+    url: git@github.com:ccranking/ccrank.git
+    branch: main
+
   - dest: ccusage-ext
     url: git@github.com:ccranking/ccusage-vscode.git
     branch: main
 
   - dest: webpage
     url: git@github.com:ccranking/webpage.git
-    branch: master
+    branch: main
 
   - dest: manifest
     url: git@github.com:ccranking/manifest.git
+    branch: main
